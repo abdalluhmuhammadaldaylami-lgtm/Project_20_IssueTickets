@@ -1,0 +1,5 @@
+﻿  Project_Tickets.cpp
+F:\Data_Structer\Project-8_IssueTickets\Project_Tickets\clsQueueLine.h(90,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Project_Tickets.cpp')
+  
+  Project_Tickets.vcxproj -> F:\Data_Structer\Project-8_IssueTickets\x64\Debug\Project_Tickets.exe
